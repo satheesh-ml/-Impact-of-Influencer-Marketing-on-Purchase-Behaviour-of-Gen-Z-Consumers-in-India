@@ -1,0 +1,7 @@
+Dataset accuracy comparision
+----------------------------------------------------------------------------------------------------------------------------
+
+Dataset(1)_influencer marketting=90.3%
+Dataset(2)_social media behaviour=93.3%
+Dataset(3)_Instagram influencer=95.6%
+Fused_dataset= 96.55%   
